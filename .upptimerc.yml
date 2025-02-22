@@ -6,11 +6,6 @@ repo: workermanager2az-status
 
 sites:
 
-  - name: FakeURL
-    url: https://thisisafake.url.web
-    expectedStatusCodes:
-      - 200
-
   - name: Demo WorkerManager2AZ
     url: https://demo-workermanager2az.solutions2az.net
     expectedStatusCodes:
