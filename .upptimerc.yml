@@ -1,36 +1,68 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+# Your GitHub organization or username, where this repository lives
+owner: solutions2az
+# The name of this repository
+repo: workermanager2az-status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Demo WorkerManager2AZ
+    url: https://demo-workermanager2az.solutions2az.net
+    expectedStatusCodes:
+      - 200
+      - 0
+  - name: Polaris
+    url: https://intranet.polaris.es
+    expectedStatusCodes:
+      - 200
+      - 0
+  - name: Armanext
+    url: https://intranet.armanext.com
+    expectedStatusCodes:
+      - 200
+      - 0
+  - name: Fundacion Del Valle
+    url: https://intranet.fundaciondelvalle.org
+    expectedStatusCodes:
+      - 200
+      - 0
+  - name: NextAbogados
+    url: https://intranet.nextabogados.com
+    expectedStatusCodes:
+      - 200
+      - 0
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: solutions2az.github.io
+  baseUrl: /workermanager2az-status
+  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: WorkerManager2AZ - Status Page
+  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Main
+      href: /workermanager2az-status/
+    - title: Solutions2AZ
+      href: https://www.solutions2az.net
+
+# Issues are automatically closed once they are resolved, however if they are open for less 
+# than 15 minutes they are deleted instead.
+skipDeleteIssues: true
+
+# The syntax followed is that of cron.
+workflowSchedule:
+  graphs: "0 */2 * * *"
+  responseTime: "0 */2 * * *"
+  staticSite: "0 */12 * * *"
+  summary: "0 */2 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 */1 * * *"
+  uptime: "*/5 * * * *"
+
+# Removing the footer
+i18n:
+  footer: ""
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
