@@ -4,19 +4,19 @@
     "url": "https://demo-workermanager2az.solutions2az.net",
     "icon": "https://icons.duckduckgo.com/ip3/demo-workermanager2az.solutions2az.net.ico",
     "slug": "demo-worker-manager2-az",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 808,
-    "timeDay": 736,
-    "timeWeek": 808,
-    "timeMonth": 808,
-    "timeYear": 808,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 817,
+    "timeDay": 789,
+    "timeWeek": 817,
+    "timeMonth": 817,
+    "timeYear": 817,
     "dailyMinutesDown": {
-      "2025-02-27": 0
+      "2025-02-27": 10
     }
   },
   {
