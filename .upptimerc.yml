@@ -1,6 +1,7 @@
 # Change these first
 # Your GitHub organization or username, where this repository lives
 owner: workermanager2az
+
 # The name of this repository
 repo: workermanager2az-status
 
@@ -11,21 +12,25 @@ sites:
     expectedStatusCodes:
       - 200
       - 0
+
   - name: Polaris
     url: https://intranet.polaris.es
     expectedStatusCodes:
       - 200
       - 0
+
   - name: Armanext
     url: https://intranet.armanext.com
     expectedStatusCodes:
       - 200
       - 0
+
   - name: Fundacion Del Valle
     url: https://intranet.fundaciondelvalle.org
     expectedStatusCodes:
       - 200
       - 0
+
   - name: NextAbogados
     url: https://intranet.nextabogados.com
     expectedStatusCodes:
@@ -37,17 +42,22 @@ status-website:
   # theme: dark
   # theme: night
   theme: ocean
+
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: workermanager2az.github.io
   baseUrl: /workermanager2az-status
+
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: WorkerManager2AZ - Status Page
+
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
+
     - title: Main
       href: /workermanager2az-status/
+
     - title: Solutions2AZ
       href: https://www.solutions2az.net
 
