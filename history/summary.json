@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo-workermanager2az.solutions2az.net.ico",
     "slug": "demo-worker-manager2-az",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 808,
-    "timeDay": 734,
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 807,
+    "timeDay": 729,
     "timeWeek": 811,
-    "timeMonth": 808,
-    "timeYear": 808,
+    "timeMonth": 807,
+    "timeYear": 807,
     "dailyMinutesDown": {
       "2025-02-27": 10
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 863,
-    "timeDay": 822,
+    "time": 860,
+    "timeDay": 790,
     "timeWeek": 866,
-    "timeMonth": 863,
-    "timeYear": 863,
+    "timeMonth": 860,
+    "timeYear": 860,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 712,
-    "timeDay": 646,
+    "time": 711,
+    "timeDay": 639,
     "timeWeek": 711,
-    "timeMonth": 712,
-    "timeYear": 712,
+    "timeMonth": 711,
+    "timeYear": 711,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 970,
-    "timeDay": 963,
-    "timeWeek": 969,
-    "timeMonth": 970,
-    "timeYear": 970,
+    "time": 969,
+    "timeDay": 954,
+    "timeWeek": 971,
+    "timeMonth": 969,
+    "timeYear": 969,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1345,
-    "timeDay": 1195,
+    "time": 1342,
+    "timeDay": 1175,
     "timeWeek": 1345,
-    "timeMonth": 1345,
-    "timeYear": 1345,
+    "timeMonth": 1342,
+    "timeYear": 1342,
     "dailyMinutesDown": {}
   }
 ]
