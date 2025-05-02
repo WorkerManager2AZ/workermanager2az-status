@@ -37,6 +37,18 @@ sites:
       - 200
       - 0
 
+  - name: Silon Aviación
+    url: https://silonaviacion.wm2az.solutions2az.net
+    expectedStatusCodes:
+      - 200
+      - 0
+
+  - name: ENJ Consultores
+    url: https://intranet.enjconsultores.es
+    expectedStatusCodes:
+      - 200
+      - 0
+
 status-website:
   # theme: ligth
   # theme: dark
