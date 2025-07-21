@@ -7,8 +7,8 @@ repo: workermanager2az-status
 
 sites:
 
-  - name: Demo WorkerManager2AZ
-    url: https://demo-workermanager2az.solutions2az.net
+  - name: Demo AhoraFicho.es
+    url: https://demo.ahoraficho.es
     expectedStatusCodes:
       - 200
       - 0
@@ -72,6 +72,9 @@ status-website:
 
     - title: Solutions2AZ
       href: https://www.solutions2az.net
+
+    - title: AhoraFicho
+      href: https://www.ahoraficho.es
 
   metaTags:
     - name: "robots"
