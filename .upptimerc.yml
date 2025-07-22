@@ -48,6 +48,18 @@ sites:
     expectedStatusCodes:
       - 200
       - 0
+      
+  - name: Imagetours
+    url: https://intranet.imagetours.es
+    expectedStatusCodes:
+      - 200
+      - 0
+      
+  - name: Samatravel
+    url: https://intranet.samatravel.com
+    expectedStatusCodes:
+      - 200
+      - 0
 
 status-website:
   # theme: ligth
