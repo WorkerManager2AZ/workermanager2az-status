@@ -60,6 +60,11 @@ sites:
     expectedStatusCodes:
       - 200
       - 0
+  - name: Inelter Casar
+    url: https://ineltercasar.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
 
 status-website:
   # theme: ligth
