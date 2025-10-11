@@ -55,13 +55,19 @@ sites:
       - 200
       - 0
       
-  - name: Samatravel
-    url: https://intranet.samatravel.com
+  - name: Inelter Casar
+    url: https://ineltercasar.ahoraficho.es
     expectedStatusCodes:
       - 200
       - 0
-  - name: Inelter Casar
-    url: https://ineltercasar.ahoraficho.es
+
+  - name: LT Estilistas
+    url: https://ltestilistas.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
+  - name: Interactive Club
+    url: https://interactiveclub.ahoraficho.es
     expectedStatusCodes:
       - 200
       - 0
