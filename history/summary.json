@@ -166,19 +166,19 @@
     "url": "https://ltestilistas.ahoraficho.es",
     "icon": "https://icons.duckduckgo.com/ip3/ltestilistas.ahoraficho.es.ico",
     "slug": "lt-estilistas",
-    "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
-    "time": 743,
-    "timeDay": 743,
-    "timeWeek": 743,
-    "timeMonth": 743,
-    "timeYear": 743,
+    "status": "up",
+    "uptime": "91.07%",
+    "uptimeDay": "91.07%",
+    "uptimeWeek": "91.07%",
+    "uptimeMonth": "91.07%",
+    "uptimeYear": "91.07%",
+    "time": 773,
+    "timeDay": 773,
+    "timeWeek": 773,
+    "timeMonth": 773,
+    "timeYear": 773,
     "dailyMinutesDown": {
-      "2025-10-11": 1
+      "2025-10-11": 17
     }
   },
   {
