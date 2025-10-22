@@ -71,6 +71,11 @@ sites:
     expectedStatusCodes:
       - 200
       - 0
+  - name: Escolactiva Lugo
+    url: https://escolactivalugo.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
 
 status-website:
   # theme: ligth
