@@ -40,19 +40,19 @@
     "url": "https://intranet.armanext.com",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.armanext.com.ico",
     "slug": "armanext",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 782,
-    "timeDay": 745,
-    "timeWeek": 782,
-    "timeMonth": 796,
+    "timeDay": 734,
+    "timeWeek": 780,
+    "timeMonth": 795,
     "timeYear": 782,
     "dailyMinutesDown": {
-      "2025-10-27": 0
+      "2025-10-27": 22
     }
   },
   {
