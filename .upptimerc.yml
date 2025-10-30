@@ -82,6 +82,12 @@ sites:
     expectedStatusCodes:
       - 200
       - 0
+      
+  - name: Alfalfa Spain
+    url: https://alfalfaspain.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
 
 status-website:
   # theme: ligth
