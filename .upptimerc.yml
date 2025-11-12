@@ -95,6 +95,12 @@ sites:
       - 200
       - 0
 
+  - name: Barracuda YD
+    url: https://barracuda-yd.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
+
 status-website:
   # theme: ligth
   # theme: dark
