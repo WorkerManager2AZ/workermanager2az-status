@@ -101,6 +101,18 @@ sites:
       - 200
       - 0
 
+  - name: Arsai Guarderia
+    url: https://arsaiguarderia.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
+
+  - name: Asterion
+    url: https://asterion.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
+
 status-website:
   # theme: ligth
   # theme: dark
