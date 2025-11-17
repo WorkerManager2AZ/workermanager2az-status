@@ -113,6 +113,12 @@ sites:
       - 200
       - 0
 
+  - name: S2PI Servicios de Prevención
+    url: https://s2pi.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
+
 status-website:
   # theme: ligth
   # theme: dark
