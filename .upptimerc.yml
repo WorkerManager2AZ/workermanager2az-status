@@ -119,6 +119,24 @@ sites:
       - 200
       - 0
 
+  - name: Perez Cardoso
+    url: https://perezcardoso.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
+
+  - name: Eletur Ascensores
+    url: https://eletur.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
+
+  - name: Agribripe
+    url: https://agribripe.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
+
 status-website:
   # theme: ligth
   # theme: dark
