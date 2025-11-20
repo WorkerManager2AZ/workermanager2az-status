@@ -137,6 +137,12 @@ sites:
       - 200
       - 0
 
+  - name: FHM Instalaciones
+    url: https://fmh-instalaciones.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
+
 status-website:
   # theme: ligth
   # theme: dark
