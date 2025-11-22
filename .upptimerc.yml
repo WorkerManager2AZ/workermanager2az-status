@@ -143,6 +143,12 @@ sites:
       - 200
       - 0
 
+  - name: Demo 2 AhoraFicho.es
+    url: https://demo2.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
+
 status-website:
   # theme: ligth
   # theme: dark
