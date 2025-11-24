@@ -149,6 +149,12 @@ sites:
       - 200
       - 0
 
+  - name: Instituto Internacional Puerto Real
+    url: https://instituto-internacional-puertoreal.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
+
 status-website:
   # theme: ligth
   # theme: dark
