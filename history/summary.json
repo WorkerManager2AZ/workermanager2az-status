@@ -473,18 +473,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipeccentro.ahoraficho.es.ico",
     "slug": "ipec-centro",
     "status": "down",
-    "uptime": "0.73%",
-    "uptimeDay": "0.73%",
-    "uptimeWeek": "0.73%",
-    "uptimeMonth": "0.73%",
-    "uptimeYear": "0.73%",
+    "uptime": "0.30%",
+    "uptimeDay": "0.30%",
+    "uptimeWeek": "0.30%",
+    "uptimeMonth": "0.30%",
+    "uptimeYear": "0.30%",
     "time": 493,
     "timeDay": 493,
     "timeWeek": 493,
     "timeMonth": 493,
     "timeYear": 493,
     "dailyMinutesDown": {
-      "2025-12-02": 2
+      "2025-12-02": 5
     }
   }
 ]
