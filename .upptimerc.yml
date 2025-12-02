@@ -154,6 +154,16 @@ sites:
     expectedStatusCodes:
       - 200
       - 0
+  - name: Demo Carhaus
+    url: https://democarhaus.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
+  - name: IPEC Centro
+    url: https://ipeccentro.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
 
 status-website:
   # theme: ligth
