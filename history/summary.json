@@ -419,18 +419,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo2.ahoraficho.es.ico",
     "slug": "demo-2-ahora-ficho-es",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.87%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 641,
     "timeDay": 638,
     "timeWeek": 642,
     "timeMonth": 641,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2025-12-02": 3
+      "2025-12-02": 18
     }
   },
   {
@@ -439,18 +439,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/instituto-internacional-puertoreal.ahoraficho.es.ico",
     "slug": "instituto-internacional-puerto-real",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.84%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 795,
     "timeDay": 1756,
     "timeWeek": 814,
     "timeMonth": 795,
     "timeYear": 795,
     "dailyMinutesDown": {
-      "2025-12-02": 3
+      "2025-12-02": 18
     }
   },
   {
@@ -477,11 +477,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipeccentro.ahoraficho.es.ico",
     "slug": "ipec-centro",
     "status": "up",
-    "uptime": "3.62%",
-    "uptimeDay": "3.62%",
-    "uptimeWeek": "3.62%",
-    "uptimeMonth": "3.62%",
-    "uptimeYear": "3.62%",
+    "uptime": "20.58%",
+    "uptimeDay": "20.58%",
+    "uptimeWeek": "20.58%",
+    "uptimeMonth": "20.58%",
+    "uptimeYear": "20.58%",
     "time": 649,
     "timeDay": 649,
     "timeWeek": 649,
