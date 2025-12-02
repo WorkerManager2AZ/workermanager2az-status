@@ -419,19 +419,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo2.ahoraficho.es.ico",
     "slug": "demo-2-ahora-ficho-es",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 642,
     "timeDay": 649,
     "timeWeek": 645,
     "timeMonth": 642,
     "timeYear": 642,
-    "dailyMinutesDown": {
-      "2025-12-02": 24
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Instituto Internacional Puerto Real",
@@ -439,19 +437,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/instituto-internacional-puertoreal.ahoraficho.es.ico",
     "slug": "instituto-internacional-puerto-real",
     "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 794,
     "timeDay": 1762,
     "timeWeek": 816,
     "timeMonth": 794,
     "timeYear": 794,
-    "dailyMinutesDown": {
-      "2025-12-02": 24
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Demo Carhaus",
@@ -477,18 +473,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipeccentro.ahoraficho.es.ico",
     "slug": "ipec-centro",
     "status": "up",
-    "uptime": "26.96%",
-    "uptimeDay": "26.96%",
-    "uptimeWeek": "26.96%",
-    "uptimeMonth": "26.96%",
-    "uptimeYear": "26.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 649,
     "timeDay": 649,
     "timeWeek": 649,
     "timeMonth": 649,
     "timeYear": 649,
-    "dailyMinutesDown": {
-      "2025-12-02": 69
-    }
+    "dailyMinutesDown": {}
   }
 ]
