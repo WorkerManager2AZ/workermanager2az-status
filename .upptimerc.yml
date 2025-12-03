@@ -164,6 +164,16 @@ sites:
     expectedStatusCodes:
       - 200
       - 0
+  - name: Arboristas del Sur
+    url: https://arboristasdelsur.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
+  - name: Campo de Gibraltar
+    url: https://campodegibraltar.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
 
 status-website:
   # theme: ligth
