@@ -175,6 +175,18 @@ sites:
       - 200
       - 0
 
+  - name: Taller Sanchez Ibañez
+    url: https://tallersanchezibanez.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
+
+  - name: Guts and Love
+    url: https://gutsandlove.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
+
 status-website:
   # theme: ligth
   # theme: dark
