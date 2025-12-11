@@ -107,8 +107,8 @@ sites:
       - 200
       - 0
 
-  - name: Asterion
-    url: https://asterion.ahoraficho.es
+  - name: Theming Profile
+    url: https://themingprofile.ahoraficho.es
     expectedStatusCodes:
       - 200
       - 0
