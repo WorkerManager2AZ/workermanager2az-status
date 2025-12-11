@@ -186,6 +186,11 @@ sites:
     expectedStatusCodes:
       - 200
       - 0
+  - name: Tila Bakes Pasteleria
+    url: https://tilabakes.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
 
 status-website:
   # theme: ligth
