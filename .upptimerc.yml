@@ -192,6 +192,18 @@ sites:
       - 200
       - 0
 
+  - name: Peral Carpinteros
+    url: https://peralcarpinteros.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
+
+  - name: Antares Imagen
+    url: https://antaresimagen.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
+
 status-website:
   # theme: ligth
   # theme: dark
