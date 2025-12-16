@@ -204,6 +204,12 @@ sites:
       - 200
       - 0
 
+  - name: Crisalferro
+    url: https://crisalferro.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
+
 status-website:
   # theme: ligth
   # theme: dark
