@@ -562,19 +562,19 @@
     "url": "https://tilabakes.ahoraficho.es",
     "icon": "https://icons.duckduckgo.com/ip3/tilabakes.ahoraficho.es.ico",
     "slug": "tila-bakes-pasteleria",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 650,
-    "timeDay": 588,
-    "timeWeek": 650,
-    "timeMonth": 650,
-    "timeYear": 650,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 653,
+    "timeDay": 608,
+    "timeWeek": 653,
+    "timeMonth": 653,
+    "timeYear": 653,
     "dailyMinutesDown": {
-      "2025-12-18": 2
+      "2025-12-18": 17
     }
   },
   {
