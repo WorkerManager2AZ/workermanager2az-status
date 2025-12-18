@@ -211,7 +211,7 @@ sites:
       - 0
 
   - name: Construccion Sanchez Ruiz
-    url: https://construccionsanchezruiz.ahoraficho.es
+    url: https://construccionessanchezruiz.ahoraficho.es
     expectedStatusCodes:
       - 200
       - 0
