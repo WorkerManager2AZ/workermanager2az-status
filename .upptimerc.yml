@@ -210,6 +210,12 @@ sites:
       - 200
       - 0
 
+  - name: Construccion Sanchez Ruiz
+    url: https://construccionsanchezruiz.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
+
 status-website:
   # theme: ligth
   # theme: dark
