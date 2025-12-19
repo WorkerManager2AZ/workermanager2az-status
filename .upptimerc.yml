@@ -216,6 +216,18 @@ sites:
       - 200
       - 0
 
+  - name: Urbanización Puig Val
+    url: https://urbanizacion-puig-val.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
+
+  - name: Carlin 50008
+    url: https://carlin50008.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
+
 status-website:
   # theme: ligth
   # theme: dark
