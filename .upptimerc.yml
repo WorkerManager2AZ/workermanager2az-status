@@ -8,7 +8,10 @@ repo: workermanager2az-status
 sites:
 
   - name: Demo AhoraFicho.es
-    url: https://demo.ahoraficho.es
+    url: https://demoplanbasico.ahoraficho.es
+    type: globalping
+    location: Madrid+ES
+    check: http
     expectedStatusCodes:
       - 200
       - 0
