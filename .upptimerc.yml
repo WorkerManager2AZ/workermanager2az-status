@@ -4,7 +4,7 @@ owner: workermanager2az
 
 # The name of this repository
 repo: workermanager2az-status
-
+user-agent: ahoraficho-status
 sites:
 
   - name: Demo AhoraFicho.es
