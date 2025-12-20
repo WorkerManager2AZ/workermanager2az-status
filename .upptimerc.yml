@@ -1,9 +1,9 @@
 # Change these first
 # Your GitHub organization or username, where this repository lives
-owner: workermanager2az
+owner: ahoraficho
 
 # The name of this repository
-repo: workermanager2az-status
+repo: ahoraficho-status
 # user-agent: ahoraficho-status
 sites:
 
@@ -248,14 +248,14 @@ status-website:
   baseUrl: /workermanager2az-status
 
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: WorkerManager2AZ - Status Page
+  name: AhoraFicho - Status Page
 
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
 
-    - title: Main
-      href: /workermanager2az-status/
+    - title: Status
+      href: /
 
     - title: Solutions2AZ
       href: https://www.solutions2az.net
