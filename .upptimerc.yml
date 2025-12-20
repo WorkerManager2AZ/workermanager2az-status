@@ -9,6 +9,8 @@ sites:
 
   - name: Demo AhoraFicho.es
     url: https://demoplanbasico.ahoraficho.es
+    type: globalping
+    location: Madrid
     expectedStatusCodes:
       - 200
       - 0
