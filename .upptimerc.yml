@@ -4,13 +4,13 @@ owner: workermanager2az
 
 # The name of this repository
 repo: workermanager2az-status
-user-agent: ahoraficho-status
+# user-agent: ahoraficho-status
 sites:
 
   - name: Demo AhoraFicho.es
     url: https://demoplanbasico.ahoraficho.es
-    type: globalping
-    location: u-Solutions2AZ:ahoraficho-00
+    # type: globalping
+    # location: u-Solutions2AZ:ahoraficho-00
     expectedStatusCodes:
       - 200
       - 0
