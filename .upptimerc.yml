@@ -116,7 +116,7 @@ sites:
       - 0
 
   - name: Theming Profile
-    url: https://themingprofile.ahoraficho.es
+    url: https://theming.ahoraficho.es
     expectedStatusCodes:
       - 200
       - 0
