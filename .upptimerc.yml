@@ -230,6 +230,12 @@ sites:
       - 200
       - 0
 
+  - name: Cafeteria Belsot
+    url: https://cafeteria-belsot.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
+
 status-website:
   # theme: ligth
   # theme: dark
