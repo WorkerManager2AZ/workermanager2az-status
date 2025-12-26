@@ -236,6 +236,12 @@ sites:
       - 200
       - 0
 
+  - name: Venijunes Carrefour Express
+    url: https://venijunes.ahoraficho.es
+    expectedStatusCodes:
+      - 200
+      - 0
+
 status-website:
   # theme: ligth
   # theme: dark
